@@ -3,6 +3,6 @@
 int main(void) {
     printf("Hello, world!!");
     printf("torvalds, stallman");
-    printf("Hello, Gnu!!");
+    printf("Hello, Gnu is the best!!");
     return 0; 
 }
